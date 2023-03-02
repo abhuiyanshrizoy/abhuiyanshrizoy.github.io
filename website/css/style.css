@@ -1,0 +1,17 @@
+h1 {
+    color: maroon;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.expensiveItem {
+    color: brown; 
+    font-weight: lighter; 
+    font-size: 20px;
+}
+
+#iotItem {
+    color: red; 
+    font-weight: bold; 
+    font-size: 20px;
+}
