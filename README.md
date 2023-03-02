@@ -1,2 +1,2 @@
 # ayush.github.io
-website.html
+website/index.html
